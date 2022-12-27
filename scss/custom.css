@@ -10942,6 +10942,10 @@ textarea.form-control-lg {
   scale: 60%;
 }
 
+.quote {
+  font-size: x-large;
+}
+
 .jumbotron {
   padding: 3rem 3rem;
   margin-bottom: 2rem;
@@ -10949,6 +10953,10 @@ textarea.form-control-lg {
   border-radius: 1em;
   margin-left: 2em;
   margin-right: 2em;
+}
+
+.rounded-1em {
+  border-radius: 1em;
 }
 
 /* GLOBAL STYLES
